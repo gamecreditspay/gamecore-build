@@ -1,14 +1,14 @@
 {
-  "name": "litecore-build",
+  "name": "gamecore-build",
   "version": "0.5.5",
-  "description": "A helper for common tasks to build litecore modules'",
+  "description": "A helper for common tasks to build gamecore modules'",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/litecoin-project/litecore-build"
+    "url": "git://github.com/gamecreditspay/gamecore-build"
   },
   "keywords": [
     "litecore"
@@ -37,9 +37,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/litecoin-project/litecore-build/issues"
+    "url": "https://github.com/gamecreditspay/gamecore-build/issues"
   },
-  "homepage": "https://github.com/litecoin-project/litecore-build",
+  "homepage": "https://github.com/gamecreditspay/gamecore-build",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",
